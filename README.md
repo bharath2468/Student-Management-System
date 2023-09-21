@@ -1,4 +1,3 @@
 # Student-Management-System
 This Python program is coded with the help of (SQ Lite 3) to maintain a record of the students in a school.  
-This project is a solution for a Hackathon question which is conducted in our campus.
-  The problem statement is to maintain students
+This is my first project working with Sqlite3, This project is used to store students records and can be able to display the data by filtering.
